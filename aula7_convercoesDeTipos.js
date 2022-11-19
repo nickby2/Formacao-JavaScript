@@ -3,7 +3,7 @@
 
 //Conversão implicita
 const num1 = 456; 
-const string1 = "4565a";
+const string1 = "4565";
 
 console.log(num1 == string1);
 console.log(num1 + string1);
